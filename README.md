@@ -1,73 +1,88 @@
-# Welcome to your Lovable project
+# Burger do Chef - Landing Page
 
-## Project info
+![Burger do Chef Logo](./public/favicon.ico)
 
-**URL**: https://lovable.dev/projects/91d629e4-791f-486a-8213-a724d8c4916b
+## 📋 Sobre o Projeto
 
-## How can I edit this code?
+Landing page para a hamburgueria artesanal "Burger do Chef", desenvolvida com tecnologias modernas para proporcionar uma experiência visual atraente e responsiva. O site apresenta o cardápio de hambúrgueres artesanais, informações sobre o estabelecimento, depoimentos de clientes e um formulário para pedidos.
 
-There are several ways of editing your application.
+**URL do Projeto**: [https://github.com/gu1lherme-ribeiro/LandingPage-Hamburgueria2-.git](https://github.com/gu1lherme-ribeiro/LandingPage-Hamburgueria2-.git)
 
-**Use Lovable**
+## 🍔 Funcionalidades
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/91d629e4-791f-486a-8213-a724d8c4916b) and start prompting.
+- **Header Responsivo**: Menu de navegação que se adapta a dispositivos móveis e desktop
+- **Hero Section**: Apresentação visual impactante com chamada para ação
+- **Cardápio**: Exibição dos hambúrgueres disponíveis com imagens e descrições
+- **Sobre Nós**: Informações sobre a história e valores da hamburgueria
+- **Depoimentos**: Avaliações de clientes satisfeitos
+- **Formulário de Pedido**: Interface para realização de pedidos
+- **Footer**: Informações de contato e redes sociais
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠️ Tecnologias Utilizadas
 
-**Use your preferred IDE**
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **React**: Biblioteca JavaScript para construção de interfaces
+- **TypeScript**: Superset tipado de JavaScript
+- **Vite**: Build tool e servidor de desenvolvimento
+- **Tailwind CSS**: Framework CSS utilitário
+- **Shadcn UI**: Componentes de UI reutilizáveis e acessíveis
+- **React Router**: Roteamento para aplicações React
+- **React Query**: Gerenciamento de estado e requisições
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🚀 Como Executar o Projeto
 
-Follow these steps:
+### Pré-requisitos
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- Node.js (versão 16 ou superior)
+- npm ou yarn
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Instalação e Execução
 
-# Step 3: Install the necessary dependencies.
-npm i
+```bash
+# Clone este repositório
+git clone https://github.com/gu1lherme-ribeiro/LandingPage-Hamburgueria2-.git
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Acesse a pasta do projeto
+cd LandPage-Hamburgueria
+
+# Instale as dependências
+npm install
+# ou
+yarn install
+
+# Execute a aplicação em modo de desenvolvimento
 npm run dev
+# ou
+yarn dev
 ```
 
-**Edit a file directly in GitHub**
+O servidor de desenvolvimento será iniciado e a aplicação estará disponível em `http://localhost:5173`.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📱 Layout Responsivo
 
-**Use GitHub Codespaces**
+O design foi desenvolvido pensando na experiência do usuário em diferentes dispositivos:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- **Desktop**: Layout completo com todas as informações visíveis
+- **Tablet**: Adaptação de elementos para telas médias
+- **Mobile**: Menu hamburguer e reorganização de conteúdo para melhor visualização
 
-## What technologies are used for this project?
+## 🎨 Personalização
 
-This project is built with:
+O projeto utiliza variáveis CSS e Tailwind para facilitar a personalização:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- Cores principais definidas no arquivo `index.css`
+- Componentes modulares que podem ser facilmente modificados
+- Temas de cores consistentes em toda a aplicação
 
-## How can I deploy this project?
+## 📝 Licença
 
-Simply open [Lovable](https://lovable.dev/projects/91d629e4-791f-486a-8213-a724d8c4916b) and click on Share -> Publish.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Can I connect a custom domain to my Lovable project?
+## 👨‍💻 Autor
 
-Yes, you can!
+Desenvolvido por Guilherme Fernandes.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+**Burger do Chef** - O Sabor que Domina a Grelha! 🍔🔥
