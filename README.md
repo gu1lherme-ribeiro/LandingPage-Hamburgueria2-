@@ -1,7 +1,5 @@
 # Burger do Chef - Landing Page
 
-![Burger do Chef Logo](./public/favicon.ico)
-
 ## 📋 Sobre o Projeto
 
 Landing page para a hamburgueria artesanal "Burger do Chef", desenvolvida com tecnologias modernas para proporcionar uma experiência visual atraente e responsiva. O site apresenta o cardápio de hambúrgueres artesanais, informações sobre o estabelecimento, depoimentos de clientes e um formulário para pedidos.
