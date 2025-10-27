@@ -4,7 +4,7 @@
 
 Landing page para a hamburgueria artesanal "Burger do Chef", desenvolvida com tecnologias modernas para proporcionar uma experiência visual atraente e responsiva. O site apresenta o cardápio de hambúrgueres artesanais, informações sobre o estabelecimento, depoimentos de clientes e um formulário para pedidos.
 
-**URL do Projeto**: [https://github.com/gu1lherme-ribeiro/LandingPage-Hamburgueria2-.git](https://github.com/gu1lherme-ribeiro/LandingPage-Hamburgueria2-.git)
+**URL do Projeto**: [https://hamburgueria-do-chef.vercel.app/](https://hamburgueria-do-chef.vercel.app/)
 
 ## 🍔 Funcionalidades
 
