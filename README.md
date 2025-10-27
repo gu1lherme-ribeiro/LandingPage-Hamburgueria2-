@@ -73,9 +73,6 @@ O projeto utiliza variáveis CSS e Tailwind para facilitar a personalização:
 - Componentes modulares que podem ser facilmente modificados
 - Temas de cores consistentes em toda a aplicação
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👨‍💻 Autor
 
